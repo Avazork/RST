@@ -1,0 +1,81 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="background" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="non-volitional cause" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="volitional result" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="36" relname="conjunction">На небе вороны, под небом монахи,</segment>
+    <segment id="2" parent="35" relname="span">
+И я между ними в расшитой рубахе,</segment>
+    <segment id="3" parent="2" relname="elaboration">
+Лежу на просторе, легка и пригожа,</segment>
+    <segment id="4" parent="36" relname="conjunction">
+И солнце взрослее, и ветер моложе.</segment>
+    <segment id="5" parent="42" relname="span">
+Меня отпевали в громадине храма,</segment>
+    <segment id="6" parent="25" relname="non-volitional cause">
+Была я невеста, прекрасная дама,</segment>
+    <segment id="7" parent="8" relname="concession">
+Душа моя рядом стояла и пела,</segment>
+    <segment id="8" parent="25" relname="span">
+Но люди, не веря, смотрели на тело.</segment>
+    <segment id="9" parent="27" relname="background">
+Судьба и молитва менялись местами,</segment>
+    <segment id="10" parent="12" relname="preparation">
+Молчал мой любимый, и крестное знамя</segment>
+    <segment id="12" parent="27" relname="span">
+Лицо его светом едва освещало.</segment>
+    <segment id="11" parent="39" relname="span">
+Простила ему, я ему всё прощала.</segment>
+    <segment id="13" parent="29" relname="preparation">
+Весна, задрожав от печального звона,</segment>
+    <segment id="14" parent="29" relname="span">
+Смахнула три капли на лики иконы,</segment>
+    <segment id="15" parent="28" relname="conjunction">
+Что мирно покоилась между руками,</segment>
+    <segment id="16" parent="28" relname="conjunction">
+Её целовало веселое пламя.</segment>
+    <segment id="17" parent="30" relname="sequence">
+Свеча догорела, упало кадило,</segment>
+    <segment id="18" parent="30" relname="sequence">
+Земля, застонав, превращалась в могилу,</segment>
+    <segment id="19" parent="31" relname="span">
+Я бросилась в небо за лёгкой синицей,</segment>
+    <segment id="20" parent="19" relname="volitional result">
+Теперь я на воле, я Белая Птица.</segment>
+    <segment id="21" parent="23" relname="background">
+Взлетев на прощанье, кружась над родными,</segment>
+    <segment id="23" parent="32" relname="span">
+Смеялась я, горе их не понимая,</segment>
+    <segment id="22" parent="33" relname="span">
+Мы встретимся вскоре, но будем иными,</segment>
+    <segment id="24" parent="22" relname="non-volitional cause">
+Есть вечная воля, зовет меня стая.</segment>
+<group id="25" type="span" parent="26" relname="span" />
+<group id="26" type="span" parent="37" relname="span" />
+<group id="27" type="span" parent="34" relname="span" />
+<group id="28" type="multinuc" parent="14" relname="elaboration" />
+<group id="29" type="span" parent="40" relname="span" />
+<group id="30" type="multinuc" parent="38" relname="sequence" />
+<group id="31" type="span" parent="30" relname="sequence" />
+<group id="32" type="span" parent="41" relname="span" />
+<group id="33" type="span" parent="32" relname="non-volitional cause" />
+<group id="34" type="span" parent="11" relname="concession" />
+<group id="35" type="span" parent="36" relname="conjunction" />
+<group id="36" type="multinuc" parent="5" relname="background" />
+<group id="37" type="span" parent="38" relname="sequence" />
+<group id="38" type="multinuc" />
+<group id="39" type="span" parent="38" relname="sequence" />
+<group id="40" type="span" parent="38" relname="sequence" />
+<group id="41" type="span" parent="38" relname="sequence" />
+<group id="42" type="span" parent="26" relname="background" />
+  </body>
+</rst>

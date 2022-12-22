@@ -1,0 +1,105 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="appeal" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="volitional result" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="summary" type="rst" />
+      <rel name="restatement" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="33" relname="appeal">Дай </segment>
+    <segment id="7" parent="31" relname="conjunction">хоть на секунду испытать святую милость,</segment>
+    <segment id="3" parent="31" relname="conjunction">
+Снег, вчера упавший, расспросить про небеса,</segment>
+    <segment id="4" parent="5" relname="concession">
+Что бы ни пропало, ни погибло, ни случилось,</segment>
+    <segment id="5" parent="30" relname="span">
+Слышать доносящиеся с неба голоса.</segment>
+    <segment id="6" parent="32" relname="conjunction">
+
+И догнать бредущую в беспамятстве дорогу,</segment>
+    <segment id="8" parent="32" relname="conjunction">
+И вернуть на место землю, как заведено.</segment>
+    <segment id="9" parent="34" relname="span">
+Покажите чудо,</segment>
+    <segment id="12" parent="9" relname="purpose"> чтобы видно было многим,</segment>
+    <segment id="11" parent="34" relname="elaboration">
+Как перевоплощается в кровь твое вино.</segment>
+    <segment id="10" parent="42" relname="span">
+
+Ветрами, морозами - хоть чем-нибудь поверьте,</segment>
+    <segment id="13" parent="10" relname="appeal">
+Покажи им чудо, злую осень покажи.</segment>
+    <segment id="14" parent="38" relname="contrast">
+Жизнь всегда любуется великолепной смертью,</segment>
+    <segment id="15" parent="38" relname="contrast">
+Смерть всегда отчаянно запоминает жизнь.</segment>
+    <segment id="16" parent="2" relname="appeal">
+
+Если бы</segment>
+    <segment id="2" parent="41" relname="span"> хоть строчка этой ночью получилась!</segment>
+    <segment id="17" parent="40" relname="contrast">
+День жужжал и жег бумагой белой на столе.</segment>
+    <segment id="18" parent="19" relname="preparation">
+Все, что потерял я, отлюбил, что не свершилось,</segment>
+    <segment id="19" parent="39" relname="span">
+Вырастет подстрочником зеленым на золе.</segment>
+    <segment id="20" parent="48" relname="appeal">
+
+Дай мне</segment>
+    <segment id="23" parent="49" relname="span"> оправдать твою безжалостную милость,</segment>
+    <segment id="21" parent="47" relname="span">
+Верными аккордами подыскать ключи</segment>
+    <segment id="22" parent="46" relname="span">
+В сад,</segment>
+    <segment id="24" parent="26" relname="preparation"> где все сначала, все концы, куда стремились</segment>
+    <segment id="26" parent="43" relname="span">
+Мы, когда нас резали и штопали врачи,</segment>
+    <segment id="25" parent="45" relname="span">
+
+Вырваться за грань уютной проданной свободы,</segment>
+    <segment id="27" parent="25" relname="restatement">
+Выбраться на волю сквозь витрины-миражи,</segment>
+    <segment id="28" parent="48" relname="sequence">
+Лечь в траву сухую и увидеть свои роды,</segment>
+    <segment id="29" parent="50" relname="appeal">
+Бабка-повитуха - смерть, хоть что-нибудь скажи.</segment>
+<group id="31" type="multinuc" parent="33" relname="span" />
+<group id="30" type="span" parent="31" relname="conjunction" />
+<group id="32" type="multinuc" parent="31" relname="volitional result" />
+<group id="33" type="span" parent="35" relname="span" />
+<group id="34" type="span" parent="37" relname="span" />
+<group id="35" type="span" parent="36" relname="conjunction" />
+<group id="36" type="multinuc" parent="55" relname="span" />
+<group id="37" type="span" parent="51" relname="conjunction" />
+<group id="38" type="multinuc" parent="36" relname="summary" />
+<group id="39" type="span" parent="40" relname="solutionhood" />
+<group id="40" type="multinuc" parent="44" relname="span" />
+<group id="41" type="span" parent="40" relname="contrast" />
+<group id="44" type="span" parent="53" relname="joint" />
+<group id="43" type="span" parent="22" relname="circumstance" />
+<group id="42" type="span" parent="52" relname="span" />
+<group id="45" type="span" parent="48" relname="sequence" />
+<group id="46" type="span" parent="21" relname="circumstance" />
+<group id="47" type="span" parent="23" relname="restatement" />
+<group id="48" type="multinuc" parent="50" relname="span" />
+<group id="49" type="span" parent="48" relname="sequence" />
+<group id="50" type="span" parent="54" relname="span" />
+<group id="51" type="multinuc" parent="36" relname="conjunction" />
+<group id="52" type="span" parent="51" relname="conjunction" />
+<group id="53" type="multinuc" />
+<group id="54" type="span" parent="53" relname="joint" />
+<group id="55" type="span" parent="53" relname="joint" />
+  </body>
+</rst>

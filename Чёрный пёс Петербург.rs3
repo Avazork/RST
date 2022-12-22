@@ -1,0 +1,140 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="elaboration" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="refrain" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="non-volitional cause" type="rst" />
+      <rel name="concession" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="volitional cause" type="rst" />
+      <rel name="appeal" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="40" relname="span">Чеpный Пес Петеpбуpг - морда на лапах.</segment>
+    <segment id="2" parent="1" relname="elaboration">
+Стынут сквозь пыль ледяные глаза.</segment>
+    <segment id="3" parent="41" relname="conjunction">
+В эту ночь я вдыхаю твой каменный запах,</segment>
+    <segment id="4" parent="41" relname="conjunction">
+Пью названия улиц, домов поезда.</segment>
+    <segment id="5" parent="43" relname="span">
+Чеpный Пес Петеpбуpг, птичий ужас прохожих,</segment>
+    <segment id="6" parent="5" relname="elaboration">
+Втиснутых в окна ночных фонарей,</segment>
+    <segment id="7" parent="8" relname="evidence">
+На Волковском воют волки: похоже</segment>
+    <segment id="8" parent="42" relname="span">
+Завтра там будет еще веселей.</segment>
+    <segment id="9" parent="47" relname="conjunction">
+
+Этот зверь никогда, никуда не спешит.</segment>
+    <segment id="10" parent="47" relname="conjunction">
+Эта ночь никого, ни к кому не зовет.</segment>
+    <segment id="11" parent="54" relname="span">
+ 
+Чеpный Пес Петеpбуpг, я слышу твой голос</segment>
+    <segment id="12" parent="49" relname="span">
+В мертвых парадных, в хрипе замков.</segment>
+    <segment id="14" parent="48" relname="span">
+Твои ноты разбросаны всюду, как волос</segment>
+    <segment id="13" parent="14" relname="comparison">
+Капли крови на черствых рублях стариков.</segment>
+    <segment id="15" parent="50" relname="conjunction">
+Чеpный Пес Петеpбуpг - крыши, диваны,</segment>
+    <segment id="17" parent="50" relname="conjunction">
+А выше поехавших крыш - пустота.</segment>
+    <segment id="16" parent="19" relname="concession">
+Наполняются пеплом в подъездах стаканы.</segment>
+    <segment id="19" parent="51" relname="span">
+В непролазной грязи здесь живет чистота.</segment>
+    <segment id="18" parent="55" relname="conjunction">
+
+Этот зверь никогда, никуда не спешит.</segment>
+    <segment id="20" parent="55" relname="conjunction">
+Эта ночь никого, ни к кому не зовет.</segment>
+    <segment id="21" parent="23" relname="preparation">
+ 
+Чеpный Пес Петеpбуpг - рассыпанный порох</segment>
+    <segment id="23" parent="59" relname="span">
+Тайн этих стен гробовой тишины.</segment>
+    <segment id="22" parent="61" relname="span">
+Дышит в каждом углу по ночам странный шорох.</segment>
+    <segment id="24" parent="22" relname="non-volitional cause">
+Здесь любой монумент в состоянии войны.</segment>
+    <segment id="25" parent="56" relname="conjunction">
+Чеpный Пес Петеpбуpг, время сжалось луною,</segment>
+    <segment id="26" parent="56" relname="conjunction">
+И твой старый хозяин сыграл на трубе.</segment>
+    <segment id="27" parent="28" relname="preparation">
+Вы молчите вдвоем, вспоминая иное</segment>
+    <segment id="28" parent="57" relname="span">
+Расположение волн на Неве.</segment>
+    <segment id="29" parent="30" relname="evidence">
+
+Чеpный Пес Петеpбуpг, ночь стоит у причала.</segment>
+    <segment id="30" parent="66" relname="span">
+Скоро в путь, я не в силах судьбу отыграть.</segment>
+    <segment id="31" parent="32" relname="preparation">
+В этой темной воде отраженье начала</segment>
+    <segment id="32" parent="58" relname="span">
+Вижу я и, как он, не хочу умирать.</segment>
+    <segment id="33" parent="34" relname="appeal">
+Чеpный Пес Петеpбуpг, есть хоть что-то живое</segment>
+    <segment id="34" parent="63" relname="span">
+В этом царстве оплеванных временем стен?</segment>
+    <segment id="35" parent="64" relname="span">
+Ты молчишь, ты всегда в состоянии покоя,</segment>
+    <segment id="37" parent="35" relname="concession">
+Даже в тяжести самых крутых перемен.</segment>
+    <segment id="36" parent="67" relname="conjunction">
+
+Этот зверь никогда, никуда не спешит.</segment>
+    <segment id="38" parent="67" relname="conjunction">
+Эта ночь никого, ни к кому не зовет.</segment>
+    <segment id="39" parent="68" relname="contrast">
+Только я, только ты, только сердце живёт!</segment>
+<group id="41" type="multinuc" parent="44" relname="span" />
+<group id="40" type="span" parent="41" relname="background" />
+<group id="42" type="span" parent="46" relname="span" />
+<group id="43" type="span" parent="42" relname="background" />
+<group id="44" type="span" parent="45" relname="conjunction" />
+<group id="45" type="multinuc" parent="74" relname="span" />
+<group id="46" type="span" parent="45" relname="conjunction" />
+<group id="47" type="multinuc" parent="45" relname="refrain" />
+<group id="48" type="span" parent="12" relname="elaboration" />
+<group id="49" type="span" parent="11" relname="elaboration" />
+<group id="50" type="multinuc" parent="51" relname="background" />
+<group id="51" type="span" parent="52" relname="span" />
+<group id="52" type="span" parent="53" relname="conjunction" />
+<group id="53" type="multinuc" parent="72" relname="span" />
+<group id="54" type="span" parent="53" relname="conjunction" />
+<group id="55" type="multinuc" parent="53" relname="refrain" />
+<group id="56" type="multinuc" parent="57" relname="background" />
+<group id="57" type="span" parent="70" relname="span" />
+<group id="58" type="span" parent="30" relname="volitional cause" />
+<group id="59" type="span" parent="60" relname="contrast" />
+<group id="60" type="multinuc" parent="69" relname="conjunction" />
+<group id="61" type="span" parent="60" relname="contrast" />
+<group id="63" type="span" parent="62" relname="contrast" />
+<group id="62" type="multinuc" parent="65" relname="conjunction" />
+<group id="64" type="span" parent="62" relname="contrast" />
+<group id="65" type="multinuc" parent="73" relname="span" />
+<group id="66" type="span" parent="65" relname="conjunction" />
+<group id="67" type="multinuc" parent="68" relname="contrast" />
+<group id="68" type="multinuc" parent="65" relname="refrain" />
+<group id="69" type="multinuc" parent="71" relname="joint" />
+<group id="70" type="span" parent="69" relname="conjunction" />
+<group id="71" type="multinuc" />
+<group id="72" type="span" parent="71" relname="joint" />
+<group id="73" type="span" parent="71" relname="joint" />
+<group id="74" type="span" parent="71" relname="joint" />
+  </body>
+</rst>

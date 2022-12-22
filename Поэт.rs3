@@ -1,0 +1,143 @@
+<rst>
+  <header>
+    <relations>
+      <rel name="concession" type="rst" />
+      <rel name="preparation" type="rst" />
+      <rel name="background" type="rst" />
+      <rel name="circumstance" type="rst" />
+      <rel name="comparison" type="rst" />
+      <rel name="volitional result" type="rst" />
+      <rel name="negation" type="rst" />
+      <rel name="solutionhood" type="rst" />
+      <rel name="elaboration" type="rst" />
+      <rel name="non-volitional cause" type="rst" />
+      <rel name="appeal" type="rst" />
+      <rel name="purpose" type="rst" />
+      <rel name="antithesis" type="rst" />
+      <rel name="evidence" type="rst" />
+      <rel name="evaluation" type="rst" />
+      <rel name="justify" type="rst" />
+      <rel name="conjunction" type="multinuc" />
+      <rel name="sequence" type="multinuc" />
+      <rel name="contrast" type="multinuc" />
+      <rel name="joint" type="multinuc" />
+    </relations>
+  </header>
+  <body>
+    <segment id="1" parent="2" relname="preparation">Выл осторожно, слушал дыханье</segment>
+    <segment id="2" parent="44" relname="span">
+Жизни железнодорожного цвета.</segment>
+    <segment id="3" parent="43" relname="span">
+Ты так прекрасна, а я жаждал ответа,</segment>
+    <segment id="5" parent="3" relname="concession">
+Сколько печали несет это знанье!</segment>
+    <segment id="4" parent="42" relname="conjunction">
+Соль на мозоли - смешные идеи,</segment>
+    <segment id="6" parent="42" relname="conjunction">
+Мир тесен так, что и ты не одета.</segment>
+    <segment id="7" parent="8" relname="preparation">
+Запахи пыли и крови Завета</segment>
+    <segment id="8" parent="46" relname="span">
+Сбросило лето, сбросило лето.</segment>
+    <segment id="9" parent="10" relname="preparation">
+
+Поэты с губами на бедрах горячки</segment>
+    <segment id="10" parent="47" relname="span">
+Летят без разбора во все дорогое,</segment>
+    <segment id="11" parent="12" relname="circumstance">
+И каждую ночь, воскресая из спячки,</segment>
+    <segment id="12" parent="49" relname="span">
+Срываются в лютое, смертное, злое.</segment>
+    <segment id="13" parent="50" relname="span">
+Переплыли Исаакий, что лысой горою</segment>
+    <segment id="14" parent="13" relname="comparison">
+Вырос вчера и молчит между нами.</segment>
+    <segment id="15" parent="16" relname="preparation">
+Спи мой гранит, я плейбоем накрою</segment>
+    <segment id="16" parent="53" relname="span">
+Печальную песню о Блоковской даме.</segment>
+    <segment id="17" parent="60" relname="span">
+
+Ограничены матом возможности мира,</segment>
+    <segment id="18" parent="17" relname="negation">
+И язык ни причем, здесь другие проблемы.</segment>
+    <segment id="19" parent="20" relname="non-volitional cause">
+Человек в небесах - это майна и вира,</segment>
+    <segment id="20" parent="57" relname="span">
+И тебе ни к чему звук на высшие темы.</segment>
+    <segment id="21" parent="58" relname="span">
+Знай, что времени нет, есть безумие воли,</segment>
+    <segment id="22" parent="55" relname="span">
+Только силой любви можно выйти за грани.</segment>
+    <segment id="23" parent="56" relname="span">
+Перейти это поле, сдохнув от боли,</segment>
+    <segment id="24" parent="23" relname="elaboration">
+И закат весь в крови, и рассвет этот ранен.</segment>
+    <segment id="25" parent="61" relname="span">
+
+Он свернул горизонт, он прокрался веками</segment>
+    <segment id="26" parent="25" relname="circumstance">
+В снов твоих семя, в снов твоих горло,</segment>
+    <segment id="27" parent="63" relname="span">
+Он кидался стихами о Блоковской даме</segment>
+    <segment id="28" parent="27" relname="purpose">
+Так чтоб проперло,</segment>
+    <segment id="30" parent="29" relname="conjunction">
+Пел что времени нет для тоски и печали,</segment>
+    <segment id="31" parent="29" relname="conjunction">
+Пел что времени нет для любви и для боя.</segment>
+    <segment id="32" parent="33" relname="concession">
+И не важно, что черти по трубам вкачали,</segment>
+    <segment id="33" parent="64" relname="span">
+Вскрыл потоки сознанья он бритвой-рукою...</segment>
+    <segment id="34" parent="62" relname="sequence">
+
+И упал лицом в Правду, и пытался подняться.</segment>
+    <segment id="35" parent="68" relname="span">
+Если ты не поможешь, он не выйдет из драки,</segment>
+    <segment id="36" parent="35" relname="negation">
+Но на сердце твоем надпись - не прислоняться!</segment>
+    <segment id="37" parent="70" relname="span">
+Он глупее поднявшейся в космос собаки.</segment>
+    <segment id="38" parent="66" relname="conjunction">
+Он рефлексы свои как катетер срывает,</segment>
+    <segment id="39" parent="67" relname="span">
+Он вдохнул стратосферу и горит как комета,</segment>
+    <segment id="40" parent="65" relname="span">
+И от боли, отчаяния, ярости лает</segment>
+    <segment id="41" parent="40" relname="circumstance">
+На звезду, исхлеставшую ветками света ...</segment>
+<group id="42" type="multinuc" parent="54" relname="joint" />
+<group id="43" type="span" parent="44" relname="justify" />
+<group id="44" type="span" parent="45" relname="span" />
+<group id="46" type="span" parent="42" relname="conjunction" />
+<group id="47" type="span" parent="48" relname="sequence" />
+<group id="48" type="multinuc" parent="51" relname="span" />
+<group id="49" type="span" parent="48" relname="sequence" />
+<group id="50" type="span" parent="48" relname="volitional result" />
+<group id="51" type="span" parent="52" relname="contrast" />
+<group id="52" type="multinuc" parent="54" relname="joint" />
+<group id="53" type="span" parent="52" relname="contrast" />
+<group id="54" type="multinuc" />
+<group id="55" type="span" parent="21" relname="solutionhood" />
+<group id="56" type="span" parent="22" relname="volitional result" />
+<group id="57" type="span" parent="59" relname="span" />
+<group id="58" type="span" parent="57" relname="appeal" />
+<group id="59" type="span" parent="71" relname="span" />
+<group id="60" type="span" parent="59" relname="background" />
+<group id="61" type="span" parent="62" relname="sequence" />
+<group id="62" type="multinuc" parent="69" relname="span" />
+<group id="63" type="span" parent="62" relname="sequence" />
+<group id="29" type="multinuc" parent="62" relname="sequence" />
+<group id="64" type="span" parent="62" relname="sequence" />
+<group id="65" type="span" parent="39" relname="volitional result" />
+<group id="66" type="multinuc" parent="37" relname="evidence" />
+<group id="67" type="span" parent="66" relname="conjunction" />
+<group id="68" type="span" parent="62" relname="solutionhood" />
+<group id="69" type="span" parent="72" relname="span" />
+<group id="70" type="span" parent="69" relname="evaluation" />
+<group id="71" type="span" parent="54" relname="joint" />
+<group id="72" type="span" parent="54" relname="joint" />
+<group id="45" type="span" parent="42" relname="conjunction" />
+  </body>
+</rst>
